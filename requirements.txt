@@ -1,8 +1,3 @@
 streamlit
-PyPDF2
-json
-re
-datetime
+
 google-genai
-plotly
-collections
